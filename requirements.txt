@@ -1,1 +1,3 @@
-
+numpy
+matplotlib
+ace_tools
