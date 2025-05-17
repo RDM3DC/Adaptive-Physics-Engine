@@ -42,9 +42,7 @@ adaptive-physics-engine/
 ├─ .gitignore
 ├─ requirements.txt
 ├─ src/
-│  ├─ simulator.py        # multi-zone 3D beam simulator
-│  ├─ optimizer.py        # ARP parameter reinforcement loop
-│  └─ dashboard.py        # interactive dashboard (PyQt/Streamlit)
+│  └─ optimizer.py        # ARP parameter reinforcement loop
 ├─ docs/
 │  ├─ diagram.png         # system schematic
 │  └─ hardware/           # CAD sketches & coil layouts
